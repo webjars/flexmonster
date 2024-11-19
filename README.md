@@ -73,7 +73,25 @@ This command will:
    <script src="/webjars/flexmonster/2.9.91-SNAPSHOT/flexmonster.full.min.js"></script>
    <link href="/webjars/flexmonster/2.9.91-SNAPSHOT/flexmonster.min.css" rel="stylesheet">
    ```
+##What is inside the project
+<ul>
+ <li>
+      Maven Configuration:
+      A pom.xml file defines the build process and dependencies for the WebJar.
+  </li>
+ <li>
 
+Flexmonster Library:
+  <ul>
+<li>The project downloads and extracts the Flexmonster Pivot Table library from its upstream URL.</li>
+<li>The library is repackaged into a JAR file, enabling it to be served as a WebJar.</li>
+  </ul>
+  </li>
+  <li>
+Resource Structure:
+The extracted Flexmonster assets are stored under META-INF/resources/webjars/flexmonster/{version} in the JAR file for compatibility with web frameworks.
+   </li>
+</ul>
 More info: http://webjars.org
 
 Upstream: https://www.flexmonster.com/
