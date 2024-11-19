@@ -77,7 +77,7 @@ This command will:
 <ul>
  <li>
       Maven Configuration:
-      A pom.xml file defines the build process and dependencies for the WebJar.
+     <br> A pom.xml file defines the build process and dependencies for the WebJar.
   </li>
  <li>
 
@@ -89,6 +89,7 @@ Flexmonster Library:
   </li>
   <li>
 Resource Structure:
+     <br>
 The extracted Flexmonster assets are stored under META-INF/resources/webjars/flexmonster/{version} in the JAR file for compatibility with web frameworks.
    </li>
 </ul>
