@@ -25,6 +25,7 @@ Table of contents:
  <li>Maven</li>
  <li>Java 8+ version</li>
  <li>JRE (Eclipse, IntelliJ IDEA ... )</li>
+ <li>JavaScript and HTML (optionally) </li>
 </ul>
 
 ## Installation
@@ -47,7 +48,6 @@ cd flexmonster
 ```
 
 4. Install the WebJar locally:
-To install the Flexmonster WebJar to your local Maven repository, run the following Maven command:
 ```
 mvn install
 ```
@@ -58,6 +58,21 @@ This command will:
  <li> Build the JAR file </li>
  <li> Install it to your local Maven repository </li>
 </ul>
+
+5. Add the dependency to your project:
+``` 
+<dependency>
+    <groupId>org.webjars</groupId>
+    <artifactId>flexmonster</artifactId>
+    <version>2.9.91-SNAPSHOT</version>
+</dependency>
+```
+
+6. Reference in HTML:
+   ``` 
+   <script src="/webjars/flexmonster/2.9.91-SNAPSHOT/flexmonster.full.min.js"></script>
+   <link href="/webjars/flexmonster/2.9.91-SNAPSHOT/flexmonster.min.css" rel="stylesheet">
+   ```
 
 More info: http://webjars.org
 
