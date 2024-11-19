@@ -20,7 +20,45 @@ Table of contents:
 * [Flexmonster licensing](#flexmonster-licensing)
 * [Social media](#social-media)
 
- 
+## Prerequisites
+<ul>
+ <li>Maven</li>
+ <li>Java 8+ version</li>
+ <li>JRE (Eclipse, IntelliJ IDEA ... )</li>
+</ul>
+
+## Installation
+
+1. Ensure Maven is installed:
+ ```
+ mvn -v
+```
+
+3. Download a `.zip` archive with the sample project or clone it from GitHub with the following command:
+
+```bash
+git clone https://github.com/webjars/flexmonster.git
+```
+
+3. Run the sample project from the console:
+   
+```
+cd flexmonster
+```
+
+4. Install the WebJar locally:
+To install the Flexmonster WebJar to your local Maven repository, run the following Maven command:
+```
+mvn install
+```
+
+This command will:
+<ul>
+ <li> Download dependencies </li>
+ <li> Build the JAR file </li>
+ <li> Install it to your local Maven repository </li>
+</ul>
+
 More info: http://webjars.org
 
 Upstream: https://www.flexmonster.com/
