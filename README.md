@@ -1,7 +1,9 @@
 # WebJar pivot table | Flexmonster Pivot Table & Charts WebJar to use with Maven and Gradle
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/readmes/blazor.webp)](https://www.flexmonster.com?r=sample_blz)
+Website: [flexmonster.com](https://www.flexmonster.com?r=sample_blz)
 
-# Website: [flexmonster.com](https://www.flexmonster.com)
 [![Github Stars](https://img.shields.io/github/stars/flexmonster?style=social)](https://github.com/flexmonster) [![Twitter](https://img.shields.io/twitter/follow/Flexmonster?style=social)](https://twitter.com/Flexmonster)
+ 
 More info: http://webjars.org
 
 Upstream: https://www.flexmonster.com/
