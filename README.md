@@ -73,7 +73,7 @@ This command will:
    <script src="/webjars/flexmonster/2.9.91-SNAPSHOT/flexmonster.full.min.js"></script>
    <link href="/webjars/flexmonster/2.9.91-SNAPSHOT/flexmonster.min.css" rel="stylesheet">
    ```
-##What is inside the project
+## What is inside the project
 <ul>
  <li>
       Maven Configuration:
