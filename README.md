@@ -17,9 +17,9 @@ Table of contents:
 
 
 ## Get Flexmonster Using Webjars
-Step 1. Go to WebJars and search for Flexmonster using the Search input field.
-Step 2. In the Build Tool column, select the tab with the build tool used in your project (e.g., Maven).
-Step 3. Include Flexmonster in your configuration file using the code snippet provided in the Build Tool column. For example, Maven’s pom.xml configuration file, which is in this project, looks similar to the following:
+- Go to WebJars and search for Flexmonster using the Search input field.
+- In the Build Tool column, select the tab with the build tool used in your project (e.g., Maven).
+- Include Flexmonster in your configuration file using the code snippet provided in the Build Tool column. For example, Maven’s pom.xml configuration file, which is in this project, looks similar to the following:
 ```
 <dependencies>
   ...
