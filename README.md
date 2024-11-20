@@ -13,7 +13,7 @@ This repository contains a simple [Maven](https://maven.apache.org) project for 
 Table of contents:
 
 * [Prerequisites](#prerequisites)
-* [How to get Flexmonster using WebJars](#get-flexmonster)
+* [Get Flexmonster Using Webjars](#get-flexmonster)
 * [Related Flexmonster docs](#related-flexmonster-docs)
 
 ## Prerequisites
