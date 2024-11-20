@@ -13,83 +13,33 @@ This repository contains a simple [Maven](https://maven.apache.org) project for 
 Table of contents:
 
 * [Prerequisites](#prerequisites)
-* [Installation](#installation)
-* [What is inside the project](#what-is-inside-the-project)
+* [How to get Flexmonster using WebJars](#get-flexmonster)
 * [Related Flexmonster docs](#related-flexmonster-docs)
 
 ## Prerequisites
 <ul>
  <li>Maven</li>
+ <li>Flexmonster Installed</li>
  <li>Java 8+ version</li>
  <li>JRE (Eclipse, IntelliJ IDEA ... )</li>
  <li>JavaScript and HTML (optionally) </li>
 </ul>
 
-## Installation
-
-1. Ensure Maven is installed:
- ```
- mvn -v
+## Get Flexmonster Using Webjars
+Step 1. Go to WebJars and search for Flexmonster using the Search input field.
+Step 2. In the Build Tool column, select the tab with the build tool used in your project (e.g., Maven).
+Step 3. Include Flexmonster in your configuration file using the code snippet provided in the Build Tool column. For example, Maven’s pom.xml configuration file, which is in this project, looks similar to the following:
 ```
-
-3. Download a `.zip` archive with the sample project or clone it from GitHub with the following command:
-
-```bash
-git clone https://github.com/webjars/flexmonster.git
-```
-
-3. Run the sample project from the console:
-   
-```
-cd flexmonster
-```
-
-4. Install the WebJar locally:
-```
-mvn install
-```
-
-This command will:
-<ul>
- <li> Download dependencies </li>
- <li> Build the JAR file </li>
- <li> Install it to your local Maven repository </li>
-</ul>
-
-5. Add the dependency to your project:
-``` 
-<dependency>
+<dependencies>
+  ...
+  <dependency>
     <groupId>org.webjars</groupId>
     <artifactId>flexmonster</artifactId>
-    <version>2.9.91-SNAPSHOT</version>
-</dependency>
+    <version>{version}</version>
+  </dependency>
+  ...
+</dependencies>
 ```
-
-6. Reference in HTML:
-   ``` 
-   <script src="/webjars/flexmonster/2.9.91-SNAPSHOT/flexmonster.full.min.js"></script>
-   <link href="/webjars/flexmonster/2.9.91-SNAPSHOT/flexmonster.min.css" rel="stylesheet">
-   ```
-## What is inside the project
-<ul>
- <li>
-      Maven Configuration:
-     <br> A pom.xml file defines the build process and dependencies for the WebJar.
-  </li>
- <li>
-
-Flexmonster Library:
-  <ul>
-<li>The project downloads and extracts the Flexmonster Pivot Table library from its upstream URL.</li>
-<li>The library is repackaged into a JAR file, enabling it to be served as a WebJar.</li>
-  </ul>
-  </li>
-  <li>
-Resource Structure:
-     <br>
-The extracted Flexmonster assets are stored under META-INF/resources/webjars/flexmonster/{version} in the JAR file for compatibility with web frameworks.
-   </li>
-</ul>
 
 ## Related Flexmonster docs
 For details on usage, refer to our documentation:
