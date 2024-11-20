@@ -43,7 +43,7 @@ Step 3. Include Flexmonster in your configuration file using the code snippet pr
 
 ## Related Flexmonster docs
 For details on usage, refer to our documentation:
-- [Integrating Flexmonster using WebJars](https://www.flexmonster.com/doc/how-to-create-js-pivottable/)
+- [Integrating Flexmonster](https://www.flexmonster.com/doc/how-to-create-js-pivottable/)
 - [Search for Flexmonster WebJars](http://webjars.org)
 - [Implementing the custom data source API server](https://www.flexmonster.com/doc/implement-custom-data-source-api?r=github)
 - [Custom data source API documentation](https://www.flexmonster.com/api/all-requests?r=github)
