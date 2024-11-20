@@ -97,7 +97,9 @@ The extracted Flexmonster assets are stored under META-INF/resources/webjars/fle
 ## Related Flexmonster docs
 For details on usage, refer to our documentation:
 - [Integrating Flexmonster using WebJars](https://www.flexmonster.com/doc/how-to-create-js-pivottable/)
-- [Search for Flexmonster WebJars](http://webjars.org) 
+- [Search for Flexmonster WebJars](http://webjars.org)
+- [Implementing the custom data source API server](https://www.flexmonster.com/doc/implement-custom-data-source-api?r=github)
+- [Custom data source API documentation](https://www.flexmonster.com/api/all-requests?r=github)
 
 
 Upstream: https://www.flexmonster.com/
