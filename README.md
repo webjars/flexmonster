@@ -16,9 +16,6 @@ Table of contents:
 * [Installation](#installation)
 * [What is inside the project](#what-is-inside-the-project)
 * [Related Flexmonster docs](#related-flexmonster-docs)
-  
-* [Support and feedback](#support-and-feedback)
-* [Social media](#social-media)
 
 ## Prerequisites
 <ul>
