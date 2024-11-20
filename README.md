@@ -1,4 +1,4 @@
-# WebJar pivot table | Flexmonster Pivot Table & Charts WebJar to use with Maven
+# WebJar for Flexmonster Pivot Table & Charts
 [![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://www.flexmonster.com/?r=github)
 Website: [flexmonster.com](https://www.flexmonster.com?r=webjargit)
 
