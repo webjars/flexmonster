@@ -39,5 +39,3 @@ For details on usage, refer to our documentation:
 - [Implementing the custom data source API on your server](https://www.flexmonster.com/doc/implement-custom-data-source-api?r=github)
 - [Custom data source API documentation](https://www.flexmonster.com/api/all-requests?r=github)
 
-
-Upstream: https://www.flexmonster.com/
