@@ -12,18 +12,9 @@ This repository contains a simple [Maven](https://maven.apache.org) project for 
 
 Table of contents:
 
-* [Prerequisites](#prerequisites)
 * [Get Flexmonster Using Webjars](#get-flexmonster)
 * [Related Flexmonster docs](#related-flexmonster-docs)
 
-## Prerequisites
-<ul>
- <li>Maven</li>
- <li>Flexmonster Installed</li>
- <li>Java 8+ version</li>
- <li>JRE (Eclipse, IntelliJ IDEA ... )</li>
- <li>JavaScript and HTML (optionally) </li>
-</ul>
 
 ## Get Flexmonster Using Webjars
 Step 1. Go to WebJars and search for Flexmonster using the Search input field.
@@ -45,7 +36,7 @@ Step 3. Include Flexmonster in your configuration file using the code snippet pr
 For details on usage, refer to our documentation:
 - [Integrating Flexmonster](https://www.flexmonster.com/doc/how-to-create-js-pivottable/)
 - [Search for Flexmonster WebJars](http://webjars.org)
-- [Implementing the custom data source API server](https://www.flexmonster.com/doc/implement-custom-data-source-api?r=github)
+- [Implementing the custom data source API on your server](https://www.flexmonster.com/doc/implement-custom-data-source-api?r=github)
 - [Custom data source API documentation](https://www.flexmonster.com/api/all-requests?r=github)
 
 
