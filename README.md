@@ -1,5 +1,5 @@
 # WebJar pivot table | Flexmonster Pivot Table & Charts WebJar to use with Maven
-[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/readmes/webjargit)](https://www.flexmonster.com?r=webjargit)
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://www.flexmonster.com/?r=github)
 Website: [flexmonster.com](https://www.flexmonster.com?r=webjargit)
 
 [![Github Stars](https://img.shields.io/github/stars/flexmonster?style=social)](https://github.com/flexmonster) [![Twitter](https://img.shields.io/twitter/follow/Flexmonster?style=social)](https://twitter.com/Flexmonster)
