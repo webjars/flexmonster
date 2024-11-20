@@ -16,8 +16,8 @@ Table of contents:
 * [Installation](#installation)
 * [What is inside the project](#what-is-inside-the-project)
 * [Related Flexmonster docs](#related-flexmonster-docs)
+  
 * [Support and feedback](#support-and-feedback)
-* [Flexmonster licensing](#flexmonster-licensing)
 * [Social media](#social-media)
 
 ## Prerequisites
@@ -93,6 +93,11 @@ Resource Structure:
 The extracted Flexmonster assets are stored under META-INF/resources/webjars/flexmonster/{version} in the JAR file for compatibility with web frameworks.
    </li>
 </ul>
-More info: http://webjars.org
+
+## Related Flexmonster docs
+For details on usage, refer to our documentation:
+- [Integrating Flexmonster using WebJars](https://www.flexmonster.com/doc/how-to-create-js-pivottable/)
+- [Search for Flexmonster WebJars](http://webjars.org) 
+
 
 Upstream: https://www.flexmonster.com/
