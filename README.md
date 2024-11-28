@@ -6,9 +6,9 @@ Website: [flexmonster.com](https://www.flexmonster.com?r=webjargit)
 
 ## Flexmonster Pivot Table & Charts
 
-Flexmonster Pivot Table & Charts is a powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your Blazor data visualization project. The tool supports popular frameworks like Angular, React, Vue, Blazor, and [more](https://www.flexmonster.com/doc/available-tutorials-integration?r=webjargit). Also, Flexmonster connects to any data source, including SQL and NoSQL databases, JSON and CSV files, OLAP cubes, and Elasticsearch. 
+This repository contains a simple project for Flexmonster Pivot Table & Charts.
 
-This repository contains a simple [Maven](https://maven.apache.org) project for Flexmonster Pivot Table & Charts.
+Flexmonster Pivot Table & Charts is a powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your data visualization project. The tool supports popular frameworks like Angular, React, Vue, Blazor, and [more](https://www.flexmonster.com/doc/available-tutorials-integration?r=webjargit). Also, Flexmonster connects to any data source, including SQL and NoSQL databases, JSON and CSV files, OLAP cubes, and Elasticsearch. 
 
 Table of contents:
 
