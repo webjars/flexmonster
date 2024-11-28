@@ -19,7 +19,8 @@ Flexmonster Pivot Table & Charts can be seamlessly integrated with JavaScript or
 - JSON
 - CSV
 - SQL databases
-And many others, check our [Data source](https://www.flexmonster.com/doc/data-source/) section.
+
+And many others, check our [data source](https://www.flexmonster.com/doc/data-source/) section.
 
 ### High speed in visualizing your data 
 
