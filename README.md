@@ -24,13 +24,34 @@ Flexmonster Pivot Table & Charts can be seamlessly integrated with JavaScript or
 
 ### Supports the most common data sources
 
-- [JSON](https://www.flexmonster.com/doc/json-data-source/?r=github)
-- [CSV](https://www.flexmonster.com/doc/csv-data-source/?r=github)
-- [SQL databases](https://www.flexmonster.com/doc/connect-to-relational-database/?r=github) (MS SQL, MySQL, and others)
-- [Microsoft Analysis Services OLAP cubes](https://www.flexmonster.com/doc/connecting-to-microsoft-analysis-services/?r=github)
-- [Custom data source API](https://www.flexmonster.com/doc/introduction-to-custom-data-source-api/?r=github)
-- [Elasticsearch](https://www.flexmonster.com/doc/connecting-to-elasticsearch/?r=github)
-- 
+- JSON
+- CSV
+- SQL databases
+And many others, check our [Data source](https://www.flexmonster.com/doc/data-source/) section.
+
+### High speed in visualizing your data 
+
+Our solution handles large data volumes effortlessly, supporting OLAP cubes, SQL datasets, and files up to 100MB, with performance limited only by the user’s browser and device. The table can instantly render millions of cells, displaying data as long as the browser allows.
+
+For faster performance with JSON, CSV, and SQL datasets, use the [Flexmonster Data Server](https://www.flexmonster.com/doc/intro-to-flexmonster-data-server/?r=github). It processes, aggregates, and delivers data in a ready-to-use format, enabling analysis of datasets over 1GB.
+
+When working with OLAP cubes, connect via the XMLA protocol or use the [Flexmonster Accelerator](https://www.flexmonster.com/doc/getting-started-with-accelerator-ssas/?r=github) for a tenfold increase in data loading speed.
+
+### Smart features to analyze and manage your data
+
+Flexmonster Pivot Table & Charts provides Excel-like features that give users the interface they have always used. The users can easily and quickly analyze data and produce a report using different options such as:
+- Filtering
+- Sorting
+- Grouping fields in rows and columns
+- Drill-down
+- Drill-through
+- Calculated fields
+- Number formatting
+- Aggregations
+- Conditional formatting
+
+Learn more about [report configuration](https://www.flexmonster.com/doc/available-tutorials-report/?r=github).
+
 ## Get Flexmonster Using Webjars
 - Go to WebJars and search for Flexmonster using the Search input field.
 - In the Build Tool column, select the tab with the build tool used in your project (e.g., Maven).
