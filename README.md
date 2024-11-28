@@ -8,14 +8,6 @@ Website: [flexmonster.com](https://www.flexmonster.com?r=webjargit)
 
 Flexmonster Pivot Table & Charts is a powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your data visualization project. The tool supports popular frameworks like Angular, React, Vue, Blazor, and [more](https://www.flexmonster.com/doc/available-tutorials-integration?r=webjargit). Also, Flexmonster connects to any data source, including SQL and NoSQL databases, JSON and CSV files, OLAP cubes, and Elasticsearch. 
 
-Table of contents:
-
-* [Get Flexmonster Using Webjars](#get-flexmonster)
-* [Related Flexmonster docs](#related-flexmonster-docs)
-* [Support and feedback](#support-and-feedback)
-* [License](#license)
-* [Social media](#social-media)
-
 ## Why use Flexmonster Pivot Table & Charts?
 
 ### Easy to integrate
@@ -70,12 +62,14 @@ Learn more about [report configuration](https://www.flexmonster.com/doc/availabl
 
 ## Related Flexmonster docs
 For details on usage, refer to our documentation:
+
+- [Demos](https://www.flexmonster.com/demos/js/pivot-table/?r=github)
+- [Documentation](https://www.flexmonster.com/doc/?r=github)
 - [Integrating Flexmonster](https://www.flexmonster.com/doc/how-to-create-js-pivottable/)
 - [Search for Flexmonster WebJars](http://webjars.org)
-- [Implementing the custom data source API on your server](https://www.flexmonster.com/doc/implement-custom-data-source-api?r=github)
-- [Custom data source API documentation](https://www.flexmonster.com/api/all-requests?r=github)
-
-
+- [User interface](https://www.flexmonster.com/user-interface/?r=github)
+- [Blog](https://www.flexmonster.com/blog/?r=github)
+  
 ## Support and feedback
 
 In case of any issues, visit our [troubleshooting section](https://www.flexmonster.com/doc/typical-errors?r=wrap_vue). You can also search among the [resolved cases](https://www.flexmonster.com/technical-support?r=wrap_vue) for a solution to your problem.
