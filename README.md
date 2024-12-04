@@ -6,7 +6,7 @@ Website: [flexmonster.com](https://www.flexmonster.com?r=webjargit)
 
 ## Flexmonster Pivot Table & Charts
 
-Flexmonster Pivot Table & Charts is a powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your data visualization project. The tool supports popular frameworks like Angular, React, Vue, Blazor, and [more](https://www.flexmonster.com/doc/available-tutorials-integration?r=webjargit). Also, Flexmonster connects to any data source, including SQL and NoSQL databases, JSON and CSV files, OLAP cubes, and Elasticsearch. 
+Flexmonster Pivot Table & Charts is a powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your data visualization project. 
 
 ## Why use Flexmonster Pivot Table & Charts?
 
@@ -45,7 +45,32 @@ Flexmonster Pivot Table & Charts provides Excel-like features that give users th
 
 Learn more about [report configuration](https://www.flexmonster.com/doc/available-tutorials-report/?r=github).
 
+## Customizable & flexible
+### Extensive API
+  
+The component provides a comprehensive JavaScript API, allowing you to easily integrate it into web applications. As a developer, you can:
+- Select which features to enable or disable
+- Create custom scenarios tailored to your needs
 
+[API Reference](https://www.flexmonster.com/api/?r=github)
+
+### Localizing component
+  
+Localize Flexmonster Pivot Table & Charts easily using the prepared JSON files:
+
+- [English (default)](https://github.com/flexmonster/pivot-localizations/blob/master/en.json)
+- [Spanish](https://github.com/flexmonster/pivot-localizations/blob/master/es.json)
+- [French](https://github.com/flexmonster/pivot-localizations/blob/master/fr.json)
+- [Chinese](https://github.com/flexmonster/pivot-localizations/blob/master/zh.json)
+- [Hungarian](https://github.com/flexmonster/pivot-localizations/blob/master/hu.json)
+- [Italian](https://github.com/flexmonster/pivot-localizations/blob/master/it.json)
+- [Portuguese](https://github.com/flexmonster/pivot-localizations/blob/master/pt.json)
+- [Ukrainian](https://github.com/flexmonster/pivot-localizations/blob/master/uk.json)
+- [German](https://github.com/flexmonster/pivot-localizations/blob/master/de.json)
+- [Dutch](https://github.com/flexmonster/pivot-localizations/blob/master/nl.json)
+- [Turkish](https://github.com/flexmonster/pivot-localizations/blob/master/tr.json)
+
+You can also create a custom localization file. Our [guide on localization](https://www.flexmonster.com/doc/localizing-component/?r=github) gives more details about localizing Flexmonster.
 ## Related Flexmonster docs
 For details on usage, refer to our documentation:
 
