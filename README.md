@@ -112,7 +112,7 @@ If you need any help with your license — fill out our [Contact form](https://w
 
 ## License
 
-Flexmonster Webjar is released as an MIT-licensed (free and open-source) add-on to Flexmonster Pivot.
+Flexmonster WebJar is released as an MIT-licensed (free and open-source) add-on to Flexmonster Pivot.
 
 To learn about Flexmonster Pivot licenses, visit the [Flexmonster licensing page](https://www.flexmonster.com/pivot-table-editions-and-pricing?r=wrap_vue). 
 If you want to test our product, we provide a 30-day free trial.
