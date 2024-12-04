@@ -92,7 +92,7 @@ All table views (compact/classic/flat) and charts can be [exported](https://www.
 You can control where to save the export data:
 - to the local computer
 - to the server (to remote file storage or database)
-- 
+  
 ## Related Flexmonster docs
 For details on usage, refer to our documentation:
 
