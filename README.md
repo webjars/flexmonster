@@ -93,8 +93,8 @@ You can control where to save the export data:
 - to the local computer
 - to the server (to remote file storage or database)
   
-## Related Flexmonster docs
-For details on usage, refer to our documentation:
+## Explore Flexmonster 
+For details on usage, refer to our documentation and blog:
 
 - [Demos](https://www.flexmonster.com/demos/js/pivot-table/?r=github)
 - [Documentation](https://www.flexmonster.com/doc/?r=github)
