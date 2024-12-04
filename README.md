@@ -71,6 +71,28 @@ Localize Flexmonster Pivot Table & Charts easily using the prepared JSON files:
 - [Turkish](https://github.com/flexmonster/pivot-localizations/blob/master/tr.json)
 
 You can also create a custom localization file. Our [guide on localization](https://www.flexmonster.com/doc/localizing-component/?r=github) gives more details about localizing Flexmonster.
+
+### Compose report layout
+Select which dimensions & values to show.
+Users can effortlessly change a report layout visually and examine the data differently. It allows you to stop guessing all possible report scenarios your end-users might require. The user can tune it to their needs on the fly.
+
+### Save & load reports
+
+Users can create reports, save them to their local drive or the server, and load previously saved reports with the same configurations.
+
+### Export & print
+
+All table views (compact/classic/flat) and charts can be [exported](https://www.flexmonster.com/doc/export-report/?r=github) or [printed](https://www.flexmonster.com/doc/print-report/?r=github). Our component allows users to export the reports into a variety of formats:
+- Microsoft Excel 7
+- PDF
+- HTML page
+- CSV (comma-separated text format)
+- Image (PNG)   
+
+You can control where to save the export data:
+- to the local computer
+- to the server (to remote file storage or database)
+- 
 ## Related Flexmonster docs
 For details on usage, refer to our documentation:
 
