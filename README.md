@@ -45,21 +45,6 @@ Flexmonster Pivot Table & Charts provides Excel-like features that give users th
 
 Learn more about [report configuration](https://www.flexmonster.com/doc/available-tutorials-report/?r=github).
 
-## Get Flexmonster Using Webjars
-- Go to WebJars and search for Flexmonster using the Search input field.
-- In the Build Tool column, select the tab with the build tool used in your project (e.g., Maven).
-- Include Flexmonster in your configuration file using the code snippet provided in the Build Tool column. For example, Maven’s pom.xml configuration file, which is in this project, looks similar to the following:
-```
-<dependencies>
-  ...
-  <dependency>
-    <groupId>org.webjars</groupId>
-    <artifactId>flexmonster</artifactId>
-    <version>{version}</version>
-  </dependency>
-  ...
-</dependencies>
-```
 
 ## Related Flexmonster docs
 For details on usage, refer to our documentation:
@@ -67,7 +52,6 @@ For details on usage, refer to our documentation:
 - [Demos](https://www.flexmonster.com/demos/js/pivot-table/?r=github)
 - [Documentation](https://www.flexmonster.com/doc/?r=github)
 - [Integrating Flexmonster](https://www.flexmonster.com/doc/how-to-create-js-pivottable/)
-- [Search for Flexmonster WebJars](http://webjars.org)
 - [User interface](https://www.flexmonster.com/user-interface/?r=github)
 - [Blog](https://www.flexmonster.com/blog/?r=github)
   
@@ -81,7 +65,7 @@ If you need any help with your license — fill out our [Contact form](https://w
 
 ## License
 
-Flexmonster Vue wrapper is released as an MIT-licensed (free and open-source) add-on to Flexmonster Pivot.
+Flexmonster Webjar is released as an MIT-licensed (free and open-source) add-on to Flexmonster Pivot.
 
 To learn about Flexmonster Pivot licenses, visit the [Flexmonster licensing page](https://www.flexmonster.com/pivot-table-editions-and-pricing?r=wrap_vue). 
 If you want to test our product, we provide a 30-day free trial.
