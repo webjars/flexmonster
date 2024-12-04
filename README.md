@@ -4,9 +4,9 @@ Website: [flexmonster.com](https://www.flexmonster.com?r=webjargit)
 
 [![Github Stars](https://img.shields.io/github/stars/flexmonster?style=social)](https://github.com/flexmonster) [![Twitter](https://img.shields.io/twitter/follow/Flexmonster?style=social)](https://twitter.com/Flexmonster)
 
-## Flexmonster Pivot Table & Charts
+## What is Flexmonster Pivot Table & Charts
 
-Flexmonster Pivot Table & Charts is a powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your data visualization project. 
+Flexmonster Pivot Table & Charts is a powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for analysing big datasets and can easily become a part of your data visualization project. 
 
 ## Why use Flexmonster Pivot Table & Charts?
 
